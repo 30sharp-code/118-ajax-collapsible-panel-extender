@@ -1,1 +1,1 @@
-# 118-ajax-collapsible-panel-extender
+# http://30sharp.com/article/10/118/1/aspnet-ajax-timer.aspx

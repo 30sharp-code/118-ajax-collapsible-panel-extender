@@ -1,0 +1,13 @@
+﻿.collapsePanel {
+	background-color:white;
+	overflow:hidden;
+}
+
+.collapsePanelHeader{	
+	color:White ;
+	background-color: #55AAFF;
+	font-weight:bold;
+	cursor: pointer; 
+	padding:5px;
+}
+
